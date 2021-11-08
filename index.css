@@ -108,6 +108,18 @@ color: #455C8D;
      .imagelogo{
          display: none;
      }
+.image2 {
+    margin-top: 20px;
+}
+.footer_1 {
+    margin-top: 180px;  
+}
+.footer_2{
+    margin-top: 10px;    
+}
+.footer_3{
+    margin-top: 10px;
+}
 
      
  }
